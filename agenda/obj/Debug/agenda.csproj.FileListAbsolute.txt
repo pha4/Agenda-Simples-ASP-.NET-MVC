@@ -1,0 +1,56 @@
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\agenda.dll.config
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\agenda.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\agenda.pdb
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\Microsoft.Web.Infrastructure.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\Newtonsoft.Json.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Helpers.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Mvc.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Razor.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Deployment.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Razor.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\Newtonsoft.Json.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Helpers.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Mvc.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.Razor.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Deployment.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Razor.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\obj\Debug\agenda.pdb
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\EntityFramework.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\EntityFramework.SqlServer.dll
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\EntityFramework.xml
+\\server\users\tanjos\meus documentos\visual studio 2013\Projects\agenda\agenda\bin\EntityFramework.SqlServer.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\agenda.dll.config
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\agenda.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\agenda.pdb
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\EntityFramework.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\EntityFramework.SqlServer.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\Newtonsoft.Json.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Helpers.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Mvc.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Razor.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\EntityFramework.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\EntityFramework.SqlServer.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\Newtonsoft.Json.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Helpers.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Mvc.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.Razor.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.dll
+C:\Users\tanjos\Documents\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.pdb
+\\server\Users\tanjos\Meus Documentos\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.Migrations.InitialCreate.resources
+\\server\Users\tanjos\Meus Documentos\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+\\server\Users\tanjos\Meus Documentos\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.Migrations.ExpansaoCamposBD.resources
+\\server\Users\tanjos\Meus Documentos\Visual Studio 2013\Projects\agenda\agenda\obj\Debug\agenda.Migrations.ExpandirCampoTel.resources

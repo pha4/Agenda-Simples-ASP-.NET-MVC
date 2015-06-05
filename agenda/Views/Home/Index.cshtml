@@ -1,0 +1,31 @@
+﻿         
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th class="text-center">Nome</th>
+                    <th class="text-center">Endereço</th>
+                    <th class="text-center">Telefone</th>
+                    <th class="text-center">Apagar</th>
+                    <th class="text-center">Atualizar</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var contato in ViewBag.Contatos)
+                {
+                    <tr>
+                        <td class="text-center">@contato.nomeCompleto</td>
+                        <td class="text-center">@contato.endereco</td>
+                        <td class="text-center">@contato.telefone</td>
+                        <td class="text-center">@Html.ActionLink("Delete", "Deletar", new { id = contato.contatoId }, "Home")</td>
+                        <td class="text-center">@Html.ActionLink("Editar", "Editar", new { id = contato.contatoId }, "Home")</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+
+       
+
+       
+
+        

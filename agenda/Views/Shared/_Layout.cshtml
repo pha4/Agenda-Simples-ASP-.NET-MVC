@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta name="author" content="Thiago Nascimento dos Anjos" />
+    <meta name="description" content="Agenda de Contatos com entity framework e ASP .NET MVC" />
+
+
+
+    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap-theme.css" />
+
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery-1.9.1.js"></script>
+
+     <title>Agenda</title>
+
+</head>
+<body>
+
+    <div class="container-fluid>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="page-header">
+                    <h1>Agenda</h1>
+ 
+
+                    <form method="get" action="/Home/pesquisa" class="navbar-form pull-right">
+
+                        <div class="form-group">
+
+                            <input type="text" name="termo" id="termo" placeholder="Pesquisa" class="form-control" />
+                            <input type="submit" value="Buscar" class="btn btn-default" />
+
+                        </div>
+                    </form>  
+                                                           
+                    <ul class="nav nav-pills pull-left">
+                                                                                                                      
+                        <li>@Html.ActionLink("Início", "Index", "Home")</li>
+                        <li>@Html.ActionLink("Cadastro", "Form", "Home")</li>
+                    </ul>
+
+
+
+                </div>
+
+              </div>
+            </div> 
+                <div class="row">
+                    <div class="col-sm-3"> </div>
+                    
+                    <div class="col-sm-6">
+                    <br /> <br />
+
+                        @RenderBody()
+                    </div>
+
+                    <div class="col-sm-3"></div>
+                </div>
+              
+</body> 
+</html>
